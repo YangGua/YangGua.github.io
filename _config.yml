@@ -1,6 +1,6 @@
 # Site settings
 title: Realtime Virtual Backgrounds
-email: contact@neuroncompany.net
+email: help@neuroncompany.net
 domain: www.neuroncompany.net
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog/
